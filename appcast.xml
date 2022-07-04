@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title></title>
+    <item>
+        <title>Version 2.0</title>
+        <description>Release notes</description>
+        <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.ncicvv.app" sparkle:version="2.0" sparkle:os="android" />
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+    </item>
+    <item>
+        <title>Version 2.0</title>
+        <description>Release notes</description>
+        <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
+        <enclosure url="https://apps.apple.com/us/app/ncic-mobile-video-visitation/id1612681512" sparkle:version="2.0" sparkle:os="iOS" />
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+    </item>
+  </channel>
+</rss>
