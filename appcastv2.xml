@@ -6,7 +6,8 @@
         <title>Version 2.0</title>
         <description>Release notes</description>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="" sparkle:version="2.0" sparkle:os="iOS, android" />
+        <enclosure url="" sparkle:version="2.0" sparkle:os="android" />
+        <enclosure url="" sparkle:version="2.0" sparkle:os="iOS" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
   </channel>
